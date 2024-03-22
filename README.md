@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Negrini085
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Nim programming in order to create a ray tracker and Matlab software as a tool to analyze lab data
 - 📫 How to reach me: filippo.negrini@studenti.unimi.it
 - ⚡ Fun fact: I'm a Physics student at Università degli Studi di Milano. My hobbies are cycling, running, climbing and mountaneering.
